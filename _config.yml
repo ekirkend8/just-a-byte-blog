@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: Treat Template
-url: "https://spring-bat.cloudvent.net/"
+title: Just a Byte
+url: "https://justabyte.me/"
 baseurl:
 google_analytics_key:
 newsletter_action:
@@ -10,13 +10,13 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Food blog template for Jekyll.
+description: A blog about bytes, bites, and bits of everything in between.
 author:
-  name:
-  email:
-  twitter: # twitter username without the @ symbol
+  name: Eve Kirkendall
+  email: kirkendall.eve@gmail.com
+  twitter: justabyteblog # twitter username without the @ symbol
 social:
-  name: Treat Template
+  name: Just a Byte
   links:
     - https://github.com/CloudCannon/treat-jekyll-template
 
@@ -75,14 +75,10 @@ exclude:
 
 social_icons:
   - Facebook
-  - Google Plus
   - Instagram
-  - LinkedIn
   - Pinterest
-  - Tumblr
   - Twitter
   - YouTube
-  - RSS
 
 _options:
   author_image:
