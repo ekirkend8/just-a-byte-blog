@@ -1,8 +1,10 @@
 - name: Home
   link: /
+- name: Bites
+  link: /recipes/
+- name: Bytes
+- name: Bits
 - name: About
   link: /about/
-- name: Recipes
-  link: /recipes/
 - name: Contact
   link: /contact/
