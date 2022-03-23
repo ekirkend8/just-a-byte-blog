@@ -13,7 +13,7 @@
 <lastmod>2017-01-07T00:00:00+00:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/about/</loc>
+<loc>http://localhost:4000/bio/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/contact-success/</loc>
@@ -26,5 +26,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/recipes/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/bits.html</loc>
+<lastmod>2022-03-23T15:36:06+00:00</lastmod>
 </url>
 </urlset>

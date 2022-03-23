@@ -10,13 +10,13 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: A blog about bytes, bites, and bits of everything in between.
+description: A blog about bytes, bites, and a bit of everything else.
 author:
   name: Eve Kirkendall
   email: kirkendall.eve@gmail.com
   twitter: justabyteblog # twitter username without the @ symbol
 social:
-  name: Just a Byte
+  name: Just a Byte Blog
   links:
     - https://github.com/CloudCannon/treat-jekyll-template
 
@@ -74,11 +74,8 @@ exclude:
 # CloudCannon
 
 social_icons:
-  - Facebook
   - Instagram
-  - Pinterest
   - Twitter
-  - YouTube
 
 _options:
   author_image:
