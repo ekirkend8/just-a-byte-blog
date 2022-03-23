@@ -1,7 +1,7 @@
 - name: Home
   link: /
 - name: Food Bites
-  link: /recipes/
+  link: /bites/
 - name: Data Bytes
   link: /bytes/
 - name: Life Bits

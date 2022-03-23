@@ -2,7 +2,7 @@
 # Site
 
 title: Just a Byte
-url: "https://justabyte.me/"
+url: "https://justabyteblog.com"
 baseurl:
 google_analytics_key:
 newsletter_action:
@@ -51,11 +51,12 @@ defaults:
       path: ""
     values:
       layout: "default"
+      push_sidebar_down: true
   -
     scope:
       path: "index.html"
     values:
-      layout: "default"
+      layout: "home"
       push_sidebar_down: true
 
 plugins:
