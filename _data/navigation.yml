@@ -1,8 +1,12 @@
 - name: Home
   link: /
-- name: About
-  link: /about/
-- name: Recipes
-  link: /recipes/
+- name: Food Bites
+  link: /bites/
+- name: Data Bytes
+  link: /bytes/
+- name: Life Bits
+  link: /bits/
+- name: Bio
+  link: /bio/
 - name: Contact
   link: /contact/
