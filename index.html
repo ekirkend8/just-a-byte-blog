@@ -3,6 +3,7 @@ title: Home
 ---
 <body>
 	<div class="container main-content">
+
 		<section class="posts">
 			{% for post in paginator.posts %}
 				<article class="post">
@@ -16,7 +17,6 @@ title: Home
 					<p><a class="button" href="{{ site.baseurl }}{{ post.url }}">Read more</a></p>
 				</article>
 			{% endfor %}
-			{% include sidebar.html %}
 		
 			{% if paginator.total_pages > 1 %}
 				<div class="pagination">

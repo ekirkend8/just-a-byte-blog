@@ -57,7 +57,7 @@ defaults:
       path: "index.html"
     values:
       layout: "home"
-      push_sidebar_down: true
+      # push_sidebar_down: true
 
 plugins:
   - jekyll-sitemap
